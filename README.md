@@ -1,5 +1,13 @@
-# 💫 About Me:
-Software Developer passionate about electrifying solutions to solve problems <br>I've worked with and am able to use, Python, Javascript, ReactJs, and FastAPI <br>amongst other tools.<br><br>I'm really interested in the business and analytical part of planning and <br>executing a product which is why I might just go into Data soon!!<br><br>I'm big on Tech | Business | Management | Leadership etc.
+# 💫 Hi There!
+
+I'm a growth-driven Software Developer passionate about electrifying solutions to solve problems
+<br>I've worked with a few tools as listed below 
+<br>amongst other tools.<br><br>I'm really interested in working with great minds to plan and 
+<br>execute solution oriented task and products. I'm also a big fan of the Data World, which is why I might just go into Data soon!!<br>
+
+<br>Another fun fact about me is that am Ambivert to core</br>
+
+<br>Few of my social skills -->  Teamwork and Collaboration | Management | Problem Solving | Communication | Leadership | Effective Decision Making | Adaptability  etc.
 
 
 ## 🌐 Socials:
